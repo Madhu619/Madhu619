@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madhu619
 - 👀 I’m interested in Frontend development and challenging career
-- 🌱 I’m currently learning UI Libraries ( React )
+- 🌱 I’m currently working UI Libraries ( React )
 - 💞️ I’m looking to collaborate on Top techies and great products
 - 📫 How to reach me rkmadhu619@gmail.com
 
